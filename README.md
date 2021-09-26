@@ -26,9 +26,8 @@ Step3: Furnish appartment's rooms with chairs
             If room name found then add it to correct room
 Step4: Sort the rooms in an apartment by room name.
 Step5: Display the result on console and save it into ouput file.
-
-Time Complexity: O(r*l) where r and l are number of rows and columns in `plan_matrix` respectively.
 ```
+Time Complexity: O(r*l) where r and l are number of rows and columns in `plan_matrix` respectively.
 
 ## Usage
 Run an appropriate command inside the project folder. 
